@@ -1,4 +1,4 @@
 chinh sua nhanh branch1
 
-chinh sua branch1 tren local
+conflict branch1
 
