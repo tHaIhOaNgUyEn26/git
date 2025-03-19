@@ -1,1 +1,7 @@
+
 Sua tren nhanh master
+
+chinh sua nhanh branch1
+
+conflict branch1
+
